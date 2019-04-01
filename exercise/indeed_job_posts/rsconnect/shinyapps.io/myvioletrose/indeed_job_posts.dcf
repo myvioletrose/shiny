@@ -1,0 +1,12 @@
+name: indeed_job_posts
+title: indeed_job_posts
+username:
+account: myvioletrose
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 818531
+bundleId: 1968980
+url: https://myvioletrose.shinyapps.io/indeed_job_posts/
+when: 1553710757.13186
+asMultiple: FALSE
+asStatic: FALSE
